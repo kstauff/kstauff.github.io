@@ -29,17 +29,20 @@ body {
 
 
 /* Custom CSS */
-div.picom-title{
-    font-size: 2em;
+div.picom-title {
+    font-size: 1.7em;
     font-family: "Lato", sans-serif;
-    font-weight: 900;
-    line-height: 180%;
+    font-weight: 400;
+    line-height: 120%;
     color: #000000;
-    margin: 20px 0 17px 0;
 }
 div.left{
     float:left;
+    padding-top: 17px;
+
 }
 div.right{
     float:right;
+    padding-top: 10px;
+    padding-bottom: 17px;
 }
