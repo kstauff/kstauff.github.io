@@ -26,10 +26,12 @@ body {
     margin:-100px 0 0 -100px; /* is width and height divided by two */
 }
 /*# sourceMappingURL=preload.css.map */
+
+/* Custom CSS */
 div.cbdcom-title {
-    font-size: 1.7em;
+    font-size: 1.9em;
     font-family: "Lato", sans-serif;
-    font-weight: 400;
+    font-weight: 900;
     line-height: 120%;
     color: #000000;
 }

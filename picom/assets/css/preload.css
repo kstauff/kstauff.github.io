@@ -30,9 +30,9 @@ body {
 
 /* Custom CSS */
 div.picom-title {
-    font-size: 1.7em;
+    font-size: 1.9em;
     font-family: "Lato", sans-serif;
-    font-weight: 400;
+    font-weight: 900;
     line-height: 120%;
     color: #000000;
 }
