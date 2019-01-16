@@ -6,10 +6,12 @@
         $("body").on('click',"#workshops-special-sessions",function(){
                     $('#mainDiv').load('workshops-special-sessions.html');
         });
+        $("body").on('click',"#posters-demos-wips",function(){
+            $('#mainDiv').load('posters-demos-wips.html');
+        });
         $("body").on('click',"#tutorial",function(){
                     $('#mainDiv').load('tutorial.html');
         });
-        
     });
 /*AUTHORS*/  
     $(document).ready(function(){
