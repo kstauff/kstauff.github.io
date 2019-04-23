@@ -1,0 +1,196 @@
+======================CALL FOR PAPERS==============================
+
+The 5th IEEE International Conference on Cloud and Big Data Computing (IEEE CBDCom 2019)
+
+                http://cyber-science.org/2019/cbdcom/
+                   Fukuoka, Japan, August 5-8, 2019
+
+				   Call for LBI, WiP, Poster Papers
+===================================================================
+ 
+================
+IMPORTANT DATES
+================
+Late Breaking Innovation Paper Due: 	May 10, 2019
+Work-in-Progress & Poster Paper Due:	May 15, 2019
+Authors Notification: 					May 25, 2019
+Camera-ready Submission:  				June 20, 2019
+Conference:								August 5th-8th, 2019 
+
+==========================
+IEEE CBDCom 2019 CALLS FOR
+==========================
+- LATE BREAKING INNOVATION paper: 
+We welcome the latest design, research, and development works within the scope of CBDCom. 
+The submission can be of any type, and will be allocated by the Program Chair to a suitable Regular, Work-in-Progress, or Poster tracks
+
+- WORK-IN-PROGRESS (WiP) paper: 4-6 pages 
+We welcome papers that report on early or ongoing research activities within the scope of CDBCom. 
+
+- POSTER paper: 2-4 pages
+Describe a vision, technique, or working system within the scope of CDBCom
+
+===========
+SUBMISSIONS 
+===========
+All submissions must be in the IEEE CS proceedings format. All accepted papers will be published by IEEE (IEEE-DL and EI indexed) in Conference Proceedings. Best Paper Awards will be presented to high quality papers. Selected papers will be recommended to prestigious journal special issues.
+
+The link to EDAS submission system is the following:
+
+https://edas.info/newPaper.php?c=25737
+
+Papers should be prepared in IEEE CS Proceedings format. 
+IEEE formatting information:
+
+http://www.ieee.org/conferences_events/conferences/publishing/templates.html
+
+At least one of the authors of any accepted paper is requested to register and present the paper at the conference. 
+
+================ 
+CONFERENCE SCOPE 
+================ 
+The IEEE International Conference on Cloud and Big Data Computing is a premier forum for researchers, practitioners and developers who are interested in cloud computing and big data to explore new ideas, techniques and tools, as well as to exchange experience. Besides the latest research achievements, the conference covers also innovative commercial data management systems, innovative commercial applications of cloud computing and big data technology, and experience in applying recent research advances to real-world problems. 
+IEEE CBDCom 2019 will be the fifth edition of the conference after the success of CBDCom 2015 in Beijing, CBDCom 2016 in Toulouse, CBDCom 2017 in San Francisco, and CBDCom 2018 in Guangzhou.  It will continuously offer a platform for researchers to exchange novel studies, discuss important issues and explore key challenges in innovative cloud and big data for smarter world.
+
+IEEE CBDCom 2019 will be held on August 5-8, 2019, co-located with IEEE CyberSciTech 2019, IEEE DASC 2019 and IEEE PICom 2019, in Fukuoka, Japan.
+
+================
+RESEARCH TRACKS 
+================ 
+The 2019 edition of IEEE CBDCom will be organized in research tracks. Topics of interest include, but are not limited to: 
+
+*Track 1 - Data Science & Analytics*
+- Big Data Fundamentals & Novel Paradigms
+- Big Data Algorithms, Applications & Services
+- Big Data Mining & Analytics
+- Big data Processing & Querying
+- Big Data Visualization
+- Big Data Computing & Recommendations
+
+*Track 2 - Big Data Infrastructure & Management*
+- Big Data Cloud, Grid, Stream Computing
+- High Performance Platforms for Big Data
+- NoSQL Data Stores & DB scalability
+- Energy-Efficient Computing for Big Data
+- Recommendation & Social Media Systems
+- Big Data Availability & Reliability
+
+*Track 3 - Big Data Tools & Applications*
+- Complex Big Data Processing
+- BD in Networks & Communications
+- Big Data as a Service
+- Data Warehousing over Big Data
+- BD Machine & Deep Learning
+- Innovative Applications & Experiences
+
+*Track 4 - Cloud Management & Virtualization*
+- Virtualization Technologies
+- Cloud Computing Platforms
+- Public, Private & Hybrid Clouds
+- Green & Energy Management 
+- Cloudlet and Serverless Computing
+- Resource Management, Storage & QoS
+
+*Track 5 - Cloud/Big Data Security, Privacy & Trust*
+- Security, Privacy & Reliability in Cloud & BD
+- Dependable/Trustworthy Big Data Processing
+- Security/Privacy/Trust as a Service
+- Blockchain in Cloud and Big Data Application
+- Cloud Attacks Detection and Prevention
+- Ethic Issues in Cloud & Big Data
+
+*Track 6 - Cloud/Big Data for IoT & Smart City*
+- Smart Data & Smart Environments
+- CBD for IoT & Cyber-Physical Systems
+- RFID & Related Technologies for IoT
+- M2M Communications and IoT
+- IoT and Smart City Infrastructures 
+- Green Computing for Big Data & Smart City
+
+========================
+PUBLICATION HIGHLIGHTS
+========================
+All accepted papers in the main tracks/WiP/posters will be published in an IEEE Computer Society proceedings, indexed by 
+ - IEEE Xplore
+ - Scopus
+ - EI Engineering Index
+ - ACM Digital Library
+ - dblp
+ - Google Scholar
+
+Extended version of the selected papers will be considered for publication in special issues of prestige journals (SCI/EI indexed).
+
+-------------------------------
+Organizing Committees
+-------------------------------
+Honorary Chairs
+Hamido Fujita, Iwate Prefectural University, Japan  
+Frank Hsu, Fordam University, USA 
+
+General Chairs
+Anna Kobusińska, Poznań University of Technology, Poland
+Peng Li, The University of Aizu, Japan 
+
+General Executive Chairs
+Bernady O. Apduhan, Kyushu Sangyo University, Japan 
+Paulo Pires, Federal University of Rio de Janeiro, Brazil 
+Rachid Benlamri, Lakehead University, Canada 
+
+Program Chairs
+Shu Tao, IBM T. J. Watson Research Center, USA
+Xiaoyan Wang, Ibaraki University, Japan 
+
+Track 1. Big Data Science and Analytics
+Burak Kantarci, University of Ottawa, Canada
+
+Track 2. Big Data Infrastructure and Management 
+Hao Wang, Norwegian University of Science & Technology, Norway
+
+Track 3. Big Data Tools and Applications
+Dionisis Margaris, University of Athens, Greece
+
+Track 4. Cloud Management, Virtualization and Service
+Tsozen Yeh, Fu Jen Catholic University, Taiwan
+
+Track 5. Cloud/Big Data Security, Privacy and Trust  
+Haiying (Helen) Shen, University of Virginia, USA
+
+Track 6. Cloud/Big Data for IoT and Smart City
+Zhi Liu, Shizuoka University, Japan
+
+Workshop Chairs 
+Yue-Shan Chang, National Taipei University, Taiwan
+Shengli Pan, China University of Geoscience, China 
+
+International Liaison & Publicity Chairs
+Naercio Magaia, Universidade de Lisboa, Portugal
+Carlos Westphall, Federal University of Santa Catarina, Brazil  
+Samia Bouzefrance, CNAM, France 
+Michał Boroń, Poznań University of Technology, Poland
+Kai Cheng, Kyushu Sangyo University, Japan
+
+Advisory Committee
+Georges Da Costa, lRIT, France
+Christophe Cerin, University of Paris XIII, France 
+Jerry Gao, San Jose State University, USA 
+Andrzej Gościński, Deakin University, Australia
+Carson K. Leung, University of Manitoba, Canada
+Jie Li, Shanghai Jiaotong University, China 
+Kuan-Ching Li, Providence University, Taiwan 
+Fuhua Oscar Lin, Athabasca University, Canada
+Yinglong Xia, Huawei Research America, USA
+Weishan Zhang, China Univ. of Petroleum, China
+Hong Zhu, Oxford Brookes University, UK
+ 
+Steering Committee
+Jianhua Ma, Hosei University, Japan
+Laurence T. Yang, SFX University, Canada
+Huansheng Ning, Univ. Sci and Tech Beijing, China
+Julien Bourgeois, UBFC, France
+Mazin Yousif, T-Systems International, USA
+Albert Zomaya, University of Sydney, Australia
+
+
+Please visit the IEEE CDBCom 2019 website http://cyber-science.org/2019/cbdcom/
+for the complete listing of organizing committee and TPC members.
+
