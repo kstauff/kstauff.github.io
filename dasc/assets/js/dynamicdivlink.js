@@ -6,12 +6,10 @@
         $("body").on('click',"#workshops-special-sessions",function(){
                     $('#mainDiv').load('workshops-special-sessions.html');
         });
-        $("body").on('click',"#posters-demos-wips",function(){
-            $('#mainDiv').load('posters-demos-wips.html');
-        });
         $("body").on('click',"#tutorial",function(){
                     $('#mainDiv').load('tutorial.html');
         });
+        
     });
 /*AUTHORS*/  
     $(document).ready(function(){
@@ -53,6 +51,9 @@
     $(document).ready(function(){
         $("body").on('click',"#participant-registration",function(){ 
             $('#mainDiv').load('participant-registration.html');
+        }); 
+        $("body").on('click',"#invitation-req",function(){ 
+            $('#mainDiv').load('invitation-req.html');
         }); 
         $("body").on('click',"#venue",function(){ 
             $('#mainDiv').load('venue.html');

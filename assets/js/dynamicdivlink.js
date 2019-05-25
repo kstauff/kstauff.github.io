@@ -51,7 +51,7 @@
     $(document).ready(function(){
         $("body").on('click',"#participant-registration",function(){ 
             $('#mainDiv').load('participant-registration.html');
-        });
+        }); 
         $("body").on('click',"#invitation-req",function(){ 
             $('#mainDiv').load('invitation-req.html');
         }); 

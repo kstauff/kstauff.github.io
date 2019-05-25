@@ -21,10 +21,7 @@
         }); 
         $("body").on('click',"#camera-ready",function(){ 
             $('#mainDiv').load('camera-ready.html');
-        });
-         $("body").on('click',"#acceptedpapers",function(){ 
-            $('#mainDiv').load('acceptedpapers.html');
-        });  
+        }); 
     });
 /*COMMITTEES*/  
     $(document).ready(function(){
